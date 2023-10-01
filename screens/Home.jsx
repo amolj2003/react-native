@@ -27,7 +27,7 @@ const Home =()=> {
         </View>
         <ScrollView>
           <Welcome/>
-          {/*<Carousel/>*/}
+          <Carousel/>
           <Heading/>
           <ProductRow/>
         </ScrollView>
